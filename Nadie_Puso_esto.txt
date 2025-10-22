@@ -4,5 +4,3 @@ Buenos dias
 Quien lea esto es gilipollas
 =======
 nadie escribio aqui
-saludos
->>>>>>> d122433 (que paso)
